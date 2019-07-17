@@ -8,9 +8,9 @@ public class ExemploComparator {
     public static void main(String[] args) {
         ArrayList<Artista> artistas = new ArrayList<Artista>();
         artistas.add(new Artista(1,"TOM JOBIM"));
-        artistas.add(new Artista(3, "JOÃO GILBERTO"));
-        artistas.add(new Artista(2, "CHICO BUARQUE"));
-        artistas.add(new Artista(4, "CAETANO VELOSO"));
+        artistas.add(new Artista(3,"JOÃO GILBERTO"));
+        artistas.add(new Artista(2,"CHICO BUARQUE"));
+        artistas.add(new Artista(4,"CAETANO VELOSO"));
         artistas.add(new Artista(9,"JORGE BEN J)OR"));
         artistas.add(new Artista(8,"ROBERTO CARLOS"));
         artistas.add(new Artista(7,"NOEL ROSA"));
